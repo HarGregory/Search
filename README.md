@@ -5,6 +5,7 @@ What is it?
 This asp.net mvc + angularjs application, to search for GitHub repos by name
 and displaying saved bookmarks. Received data from GitHub is limited in scope 
 because of the security policy GitHub (A large load on the database).
+delete folder .vc before the first launch
 
 Description Metods from HomeController
 ----------
